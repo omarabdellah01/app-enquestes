@@ -43,3 +43,9 @@ Además, hay varios errores de tipos implícitos no declarados en las funciones.
 ![image](https://github.com/user-attachments/assets/f1928cbe-8240-4001-9fb1-ef7483b48d80)
 
 ![image](https://github.com/user-attachments/assets/7d50a08c-7213-43a9-815d-0244223da7a1)
+
+
+Reflexió:
+L’ús de GitHub Copilot ha estat molt útil per accelerar el desenvolupament inicial i generar les estructures bàsiques de codi, com el context i les pantalles. Ha ajudat especialment a escriure codi TypeScript i gestió d’estat que hauria trigat més a escriure manualment.
+
+No obstant, ha requerit revisió constant per assegurar la correcció del codi i adaptar-lo a les necessitats específiques. També ha estat necessari introduir prompts molt específics i iterar per refinar el resultat. En resum, Copilot és una eina que ajuda molt però que requereix supervisió i validació.
