@@ -46,6 +46,7 @@ Además, hay varios errores de tipos implícitos no declarados en las funciones.
 
 
 Reflexió:
+
 L’ús de GitHub Copilot ha estat molt útil per accelerar el desenvolupament inicial i generar les estructures bàsiques de codi, com el context i les pantalles. Ha ajudat especialment a escriure codi TypeScript i gestió d’estat que hauria trigat més a escriure manualment.
 
 No obstant, ha requerit revisió constant per assegurar la correcció del codi i adaptar-lo a les necessitats específiques. També ha estat necessari introduir prompts molt específics i iterar per refinar el resultat. En resum, Copilot és una eina que ajuda molt però que requereix supervisió i validació.
